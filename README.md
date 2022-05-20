@@ -1,12 +1,12 @@
 # Git LEARN.
 This project is just a simple guide to learn the mechanism of using git & github.
 ___
-## [steps.txt](steps.txt)
+## [steps.txt](steps.md)
 It is a simple step by step explanation of how create a simple repository.
-## [prompt.txt](prompt.txt)
+## [prompt.txt](prompt.md)
 Read it and learn how to make your git prompt to show you the status of
 your repo as well as the branch you are working on.
-## [branches.txt](branches.txt)
+## [branches.txt](branches.md)
 This is a description of how to work with branches in git.
 ___
 References:
