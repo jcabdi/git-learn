@@ -5,24 +5,24 @@ remain the same.
 
 - to create a new branch and switch to it we can:
 
-git branch <new-branch-name>
-git switch <new-branch-name> or git checkout <new-branch-name>
+        git branch <new-branch-name>
+        git switch <new-branch-name> or git checkout <new-branch-name>
 
-or
+        or
 
-git checkout -b <new-branch-name>
+        git checkout -b <new-branch-name>
 
 - to list our branches:
 
-git branch (an * is going to be in the branch we are on)
+        git branch (an * is going to be in the branch we are on)
 
 - to switch between branches once created we can:
 
-git switch <branch-name>
+        git switch <branch-name>
 
-or
+        or
 
-git checkout <branch-name>
+        git checkout <branch-name>
 
 
 
