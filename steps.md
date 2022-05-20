@@ -1,8 +1,9 @@
+# Steps
 ### In Github:
 
 1- Create and empty repository in github and get the link (git@github.com:jcabdi/git_learn.git)
 
-In local machine:
+### In local machine:
 
 |Purpose | Command|
 --- | ---|
