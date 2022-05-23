@@ -4,7 +4,6 @@ Branches in `git` is a powerful concept, instead of keep working on the main bra
 we may add or change contents using branches. When we make a new branch we are putting in the new created branch the actual content of main in the
 moment we created this new branch. Now we can add or modify content and all the changes are going to be taking place inside the new branch and main
 remain the same.
-
 ## Create a new branch and switch to it
 
 ```bash
@@ -20,9 +19,7 @@ git checkout -b <new-branch-name>
 git branch
 ```
 You will see an asterisk `*` next to the currently checked out branch.
-
 ## Switch between branches once created:
-
 ```
 git switch <branch-name>
 ```
@@ -30,7 +27,3 @@ or
 ```
 git checkout <branch-name>
 ```
-
-
-
-
