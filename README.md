@@ -1,5 +1,5 @@
 # Git LEARN
-This project is just a simple guide to learn the mechanism of using git & “GitHub”.
+This project is just a simple guide to learn the mechanism of using git & "GitHub".
 ___
 ## [Setup Steps](steps.md)
 It is a simple step by step explanation of how create a “repository”.
