@@ -29,6 +29,9 @@ jobs:
       - name: Check OS
         run: echo We are going to run Linter!
 
+      # Runs Linter Fixer
+      -name: Linter auto fix
+        run: textlint --fix README.md
       # Runs Linter
       - name: Lint Code Base
         uses: github/super-linter@v4
