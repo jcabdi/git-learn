@@ -1,11 +1,11 @@
 # Git LEARN
-This project is just a simple guide to learn the mechanism of using git & "GitHub".
+This project is just a simple guide to learn the mechanism of using git & GitHub.
 ___
 ## [Setup Steps](steps.md)
-It is a simple step by step explanation of how create a “repository”.
+It is a simple step by step explanation of how create a repository.
 ## [Git prompt customization](prompt.md)
 Read it and learn how to make your git prompt to show you the status of
-your “repository” as well as the branch you are working on.
+your repository as well as the branch you are working on.
 ## [Branches](branches.md)
 This is a description of how to work with branches in git.
 

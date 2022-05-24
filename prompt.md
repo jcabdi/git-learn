@@ -23,7 +23,7 @@ GIT_PS1_SHOWUPSTREAM='auto'
 ```
 ___
 
-### The explanation to understand each symbols is here:
+### The explanation to understand each symbols is here
 
 | Option | Value | Description
 | --- | ----------- | ------------------
