@@ -19,7 +19,7 @@ git checkout -b <new-branch-name>
 git branch
 ```
 You will see an asterisk `*` next to the currently checked out branch.
-## Switch between branches once created
+## Switch between branches once created:
 ```
 git switch <branch-name>
 ```
