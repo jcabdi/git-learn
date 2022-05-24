@@ -1,4 +1,4 @@
-# Git prompt customization:
+# Git prompt customization
 
 ## Make your prompt to tell you about the repository status
 1. Open `~/.bashrc` in an editor, look for the following lines and make it look like this:
@@ -23,7 +23,7 @@ GIT_PS1_SHOWUPSTREAM='auto'
 ```
 ___
 
-### The explanation to understand each symbols is here:
+### The explanation to understand each symbols is here
 
 | Option | Value | Description
 | --- | ----------- | ------------------

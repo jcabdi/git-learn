@@ -1,8 +1,8 @@
 # Steps
-## Now we are going to setup an empty repository in `Github` and setup a `local` repository with only one file, `README.md`
-### In Github
-1- Create and empty repository in github and get the link (git@github.com:jcabdi/git_learn.git)
-### In local machine:
+## Now we are going to setup an empty repositorysitory in `GitHub` and setup a `local` repositorysitory with only one file, `README.md`
+### In GitHub
+1- Create and empty repositorysitory in GitHub and get the link (git@GitHub.com:jcabdi/git_learn.git)
+### In local machine
 1-Create project folder and cd into it:
 ```bash
 mkdir <project_folder> && cd <project_folder>
@@ -11,7 +11,7 @@ mkdir <project_folder> && cd <project_folder>
 ```bash
 touch README.md && echo "# Title" >> README.md
 ```
-3-Initialize git project. It creates a .git folder and initialize the local repo
+3-Initialize git project. It creates a .git folder and initialize the local repository
 ```bash
 git init
 ```
@@ -23,13 +23,13 @@ or
 ```bash
 git add .
  ```
-5-Commit the "actual" status of the repo:
+5-Commit the "actual" status of the repository:
 ```bash
 git commit -m "message describing the commit"
 ```
-6-Add a remote named origin for the repo at the url:
+6-Add a remote named origin for the repository at the url:
 ```bash
-git remote add origin git@github.com:jcabdi/git_learn.git
+git remote add origin git@GitHub.com:jcabdi/git_learn.git
 ```
 7-Force the actual branch to be called "main":
 ```bash
