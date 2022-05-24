@@ -1,7 +1,7 @@
 # Steps
-## Now we are going to setup an empty repositorysitory in `GitHub` and setup a `local` repositorysitory with only one file, `README.md`
+## Now we are going to setup an empty repository in `GitHub` and setup a `local` repository with only one file, `README.md`
 ### In GitHub
-1- Create and empty repositorysitory in GitHub and get the link (git@GitHub.com:jcabdi/git_learn.git)
+1- Create and empty repository in GitHub and get the link (git@GitHub.com:jcabdi/git_learn.git)
 ### In local machine
 1-Create project folder and cd into it:
 ```bash
