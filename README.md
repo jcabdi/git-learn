@@ -14,3 +14,4 @@ This is a description of how to work with branches in git.
 2. [Git Prompt customization explanation](https://jon.sprig.gs/blog/post/1940)
 3. [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 4. [git-scm-video-basics](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+5. [Git Tutorial For Beginners](https://www.simplilearn.com/tutorials/git-tutorial/git-tutorial-for-beginner)
