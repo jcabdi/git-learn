@@ -1,7 +1,7 @@
 # Setup steps
 ## Now we are going to setup an empty repository in `GitHub` and setup a `local` repository with only one file, `README.md`
 ### In GitHub
-1- Create and empty repository in GitHub and get the link just created which is pointing to new new repository (git@GitHub.com:`username`/`repo-name`.git)
+1- Create and empty repository in GitHub and get the link just created which is pointing to the new repository (git@GitHub.com:`username`/`repo-name`.git)
 ### In your local machine
 1-Create project folder and cd into it
 ```bash
